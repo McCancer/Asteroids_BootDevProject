@@ -1,6 +1,12 @@
+#Screen Constants
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 
+#ColorConstants
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+
+#Game Object Constants
 ASTEROID_MIN_RADIUS = 20
 ASTEROID_KINDS = 3
 ASTEROID_SPAWN_RATE = 0.8  # seconds
